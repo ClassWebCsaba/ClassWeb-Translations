@@ -1,0 +1,1 @@
+fordítsd le az alábbi msgid-ket a pot fájlnak megfelelő formátumban magyarra:

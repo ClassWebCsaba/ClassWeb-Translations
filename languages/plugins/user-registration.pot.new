@@ -3,20 +3,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: User Registration 3.3.4.1\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/user-"
-"registration\n"
-"Last-Translator: \n"
-"Language-Team: Magyar\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/user-registration\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-10-16T09:55:02+00:00\n"
-"PO-Revision-Date: 2024-10-24 00:30+0000\n"
-"X-Generator: Loco https://localise.biz/\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: user-registration\n"
-"Language: hu_HU\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Loco-Version: 2.6.11; wp-6.6.2"
 
 #. Plugin Name of the plugin
 #: includes/3rd-party/elementor/class-ur-elementor.php:80
@@ -366,12 +362,12 @@ msgstr "Csak %qty% elemet választhat ki"
 #: includes/admin/class-ur-admin-assets.php:297
 msgctxt "enhanced select"
 msgid "Loading more results&hellip;"
-msgstr "További eredmények betöltése&hellip;"
+msgstr ""
 
 #: includes/admin/class-ur-admin-assets.php:298
 msgctxt "enhanced select"
 msgid "Searching&hellip;"
-msgstr "Keresés&hellip;"
+msgstr ""
 
 #: includes/admin/class-ur-admin-assets.php:310
 msgid "Could not install."
@@ -1230,11 +1226,11 @@ msgstr "A beállításaid el lettek mentve."
 
 #: includes/admin/class-ur-admin-settings.php:118
 msgid "Your settings has not been saved. You enabled \"Disable Default WordPress Login Screen\" but did not select a login page. Please select a page for \"Redirect Default WordPress Login To\"."
-msgstr "A beállításaid nem lettek elmentve. Engedélyezted a \"A WordPress alapértelmezett bejelentkezési képernyő letiltása\" lehetőséget, de nem választottál bejelentkező oldalt. Kérlek, válassz egy oldalt a \"Alapértelmezett WordPress bejelentkezési oldal átirányítása\" számára."
+msgstr ""
 
 #: includes/admin/class-ur-admin-settings.php:127
 msgid "Your settings has not been saved.The selected page for \"Redirect Default WordPress Login To\" is not a login page. Please select a valid login page."
-msgstr "A beállításaid nem lettek elmentve. A \"Alapértelmezett WordPress bejelentkezési oldal átirányítása\"-hoz kiválasztott oldal nem egy bejelentkezési oldal. Kérlek, válassz egy érvényes bejelentkezési oldalt."
+msgstr ""
 
 #: includes/admin/class-ur-admin-settings.php:203
 msgid "The changes you made will be lost if you navigate away from this page."
@@ -1305,8 +1301,8 @@ msgstr "Felhasználói regisztráció:"
 #: includes/admin/settings/class-ur-settings-email.php:254
 msgid "User"
 msgstr "Felhasználó"
-msgstr[0] "Felhasználó"
-msgstr[1] "Felhasználó"
+msgstr[0] ""
+msgstr[1] ""
 
 #: includes/admin/class-ur-admin-user-list-manager.php:224
 msgid "Users"
@@ -1470,7 +1466,7 @@ msgstr "Soha ne jelenjen meg újra"
 #. translators: %1$s - My account Link.
 #: includes/admin/notifications/class-ur-admin-notices.php:111
 msgid "Please choose a <strong title=\"A page with [user_registration_my_account] shortcode\">My Account</strong> page in <a href=\"%1$s\" style=\"text-decoration:none;\">General Settings</a>. <br/><strong>Got Stuck? Read</strong> <a href=\"https://docs.wpuserregistration.com/docs/how-to-show-account-profile/\" style=\"text-decoration:none;\" rel=\"noreferrer noopener\" target=\"_blank\">How to setup My Account page</a>."
-msgstr "Kérlek válassz egy <strong title=\"A [user_registration_my_account] shortcode-dal rendelkező oldalt\">Saját fiók</strong> oldalt a <a href=\"%1$s\" style=\"text-decoration:none;\">Általános beállítások</a> menüben. <br/><strong>Elakadtál? Olvasd el</strong> <a href=\"https://docs.wpuserregistration.com/docs/how-to-show-account-profile/\" style=\"text-decoration:none;\" rel=\"noreferrer noopener\" target=\"_blank\">Hogyan állítsd be a Saját fiók oldalt</a>."
+msgstr ""
 
 #: includes/admin/notifications/class-ur-admin-notices.php:311
 #: includes/admin/notifications/class-ur-admin-notices.php:370
@@ -1519,7 +1515,7 @@ msgstr "Kérdésem van"
 
 #: includes/admin/notifications/class-ur-admin-notices.php:374
 msgid "( The above word is just to draw your attention. <span class=\"dashicons dashicons-smiley smile-icon\"></span> )"
-msgstr "(A fenti szó csak arra szolgál, hogy felhívja a figyelmedet. <span class=\"dashicons dashicons-smiley smile-icon\"></span> )"
+msgstr ""
 
 #: includes/admin/notifications/class-ur-admin-notices.php:375
 msgid "Hope you are having nice experience with <strong>User Registration</strong> plugin. Please provide this plugin a nice review."
@@ -1553,7 +1549,7 @@ msgstr "Hozzájárulás a fejlesztéshez"
 
 #: includes/admin/notifications/class-ur-admin-notices.php:497
 msgid "Help us improve the plugin's features by sharing <a href=\"https://docs.wpuserregistration.com/docs/miscellaneous-settings/#1-toc-title\" target=\"_blank\">non-sensitive plugin data</a> with us."
-msgstr "Segítsd elő a bővítmény funkcióinak fejlesztését azáltal, hogy megosztod velünk a <a href=\"https://docs.wpuserregistration.com/docs/miscellaneous-settings/#1-toc-title\" target=\"_blank\">nem érzékeny bővítmény adatokat</a>."
+msgstr ""
 
 #: includes/admin/notifications/class-ur-admin-notices.php:505
 msgid "Allow"
@@ -1572,7 +1568,7 @@ msgstr "Csalás, mi?"
 #. translators: % s: continue wizard URL
 #: includes/admin/notifications/class-ur-admin-notices.php:879
 msgid "<a href=\"%s\" class=\"button-primary\" style=\"margin-right: 5px;\">Continue Setup Wizard</a>"
-msgstr "<a href=\"%s\" class=\"button-primary\" style=\"margin-right: 5px;\">Folytasd a beállítás varázslót</a>"
+msgstr ""
 
 #: includes/admin/notifications/class-ur-admin-notices.php:880
 msgid "<a class=\"button-secondary skip\" href=\"%s\">Skip setup</a>"
@@ -1586,7 +1582,7 @@ msgstr "Elvetés"
 
 #: includes/admin/notifications/views/html-notice-deactivation.php:23
 msgid "Before we deactivate User Registration, would you care to <a href=\"%1$s\" rel=\"noreferrer noopener\" target=\"_blank\">let us know why</a> so we can improve it for you? <a href=\"%2$s\">No, deactivate now</a>."
-msgstr "Mielőtt deaktiválnánk a Felhasználói regisztrációt, szeretnéd-e <a href=\"%1$s\" rel=\"noreferrer noopener\" target=\"_blank\">megmondani, miért</a>, hogy javíthassunk rajta? <a href=\"%2$s\">Nem, deaktiválom most</a>."
+msgstr ""
 
 #: includes/admin/notifications/views/html-notice-install.php:15
 msgid "Install User Registration Pages"
@@ -1795,7 +1791,7 @@ msgstr "Téma"
 #. translators: %1$s - Cloudflare Turnstile docs url
 #: includes/admin/settings/class-ur-settings-captcha.php:465
 msgid "Please select theme mode for your Cloudflare Turnstile. <a href=\"%1$s\" rel=\"noreferrer noopener\" target=\"_blank\">Learn More</a>"
-msgstr "Kérlek válassz témamódot a Cloudflare Turnstile-hoz. <a href=\"%1$s\" rel=\"noreferrer noopener\" target=\"_blank\">Tudj meg többet</a>"
+msgstr ""
 
 #: includes/admin/settings/class-ur-settings-captcha.php:468
 msgid "Auto"
@@ -1807,7 +1803,7 @@ msgstr "Világos"
 
 #: includes/admin/settings/class-ur-settings-captcha.php:470
 msgid "Dark"
-msgstr "Sötét"
+msgstr "
 
 #: includes/admin/settings/class-ur-settings-email.php:41
 #: includes/admin/settings/emails/class-ur-settings-admin-email.php:71
@@ -2020,7 +2016,7 @@ msgstr "A végpontok hozzáadódnak az oldalak URL-jeihez, hogy kezeljék a spec
 
 #: includes/admin/settings/class-ur-settings-general.php:189
 msgid "Endpoint for the \"My account &rarr; Edit profile\" page."
-msgstr "A \"Saját fiók &rarr; Profil szerkesztése\" oldal végpontja."
+msgstr ""
 
 #: includes/admin/settings/class-ur-settings-general.php:196
 #: includes/class-ur-query.php:72
@@ -2031,7 +2027,7 @@ msgstr "Jelszó megváltoztatása"
 
 #: includes/admin/settings/class-ur-settings-general.php:197
 msgid "Endpoint for the \"My account &rarr; Change Password\" page."
-msgstr "A \"Saját fiók &rarr; Jelszó megváltoztatása\" oldal végpontja."
+msgstr ""
 
 #: includes/admin/settings/class-ur-settings-general.php:204
 msgid "Lost Password"
@@ -2039,7 +2035,7 @@ msgstr "Elfelejtett jelszó"
 
 #: includes/admin/settings/class-ur-settings-general.php:205
 msgid "Endpoint for the \"My account &rarr; Lost password\" page."
-msgstr "A \"Saját fiók &rarr; Elfelejtett jelszó\" oldal végpontja."
+msgstr ""
 
 #: includes/admin/settings/class-ur-settings-general.php:212
 msgid "User Logout"
@@ -2054,8 +2050,8 @@ msgid "Success Messages"
 msgstr "Sikeres üzenetek"
 
 #: includes/admin/settings/class-ur-settings-general.php:255
-msgid "Auto Approval And Manual Login"
-msgstr "Automatikus jóváhagyás és manuális bejelentkezés"
+msgid "Auto Approval And Manual Login "
+msgstr ""
 
 #: includes/admin/settings/class-ur-settings-general.php:256
 msgid "Enter the text message after successful form submission when auto approval and manual login is selected."
@@ -2352,7 +2348,7 @@ msgstr "Az alapértelmezett WordPress bejelentkezési oldal (wp-login.php) le le
 
 #: includes/admin/settings/class-ur-settings-general.php:544
 msgid "Please make sure that you have created a login or my-account page which has a login form before enabling this option. Learn how to create a login form <a href=\"https://docs.wpuserregistration.com/docs/how-to-show-login-form/\" rel=\"noreferrer noopener\" target=\"_blank\">here</a>."
-msgstr "Kérlek győződj meg róla, hogy létrehoztál egy bejelentkezési vagy saját fiók oldalt, amely tartalmaz egy bejelentkezési űrlapot, mielőtt engedélyeznéd ezt a lehetőséget. Tudd meg, hogyan hozhatsz létre bejelentkezési űrlapot <a href=\"https://docs.wpuserregistration.com/docs/how-to-show-login-form/\" rel=\"noreferrer noopener\" target=\"_blank\">itt</a>."
+msgstr ""
 
 #: includes/admin/settings/class-ur-settings-general.php:548
 msgid "Redirect Default WordPress Login To"
@@ -2423,7 +2419,7 @@ msgstr "Ez az opció lehetővé teszi a \"Elfelejtette a jelszavát?\" lehetős�
 #: includes/admin/settings/class-ur-settings-general.php:611
 #: templates/myaccount/form-login.php:43
 msgid "Lost your password?"
-msgstr "Elfelejtetted a jelszavad?"
+msgstr ""
 
 #: includes/admin/settings/class-ur-settings-general.php:616
 msgid "Placeholders"
@@ -2599,7 +2595,7 @@ msgstr "Használati nyomon követés engedélyezése"
 
 #: includes/admin/settings/class-ur-settings-misc.php:92
 msgid "Help us improve the plugin's features by sharing <a href=\"https://docs.wpuserregistration.com/docs/miscellaneous-settings/#1-toc-title\" rel=\"noreferrer noopener\" target=\"_blank\">non-sensitive plugin data</a> with us."
-msgstr "Segíts nekünk a bővítmény fejlesztésében azáltal, hogy megosztod velünk a <a href=\"https://docs.wpuserregistration.com/docs/miscellaneous-settings/#1-toc-title\" rel=\"noreferrer noopener\" target=\"_blank\">nem érzékeny bővítmény adatokat</a>."
+msgstr ""
 
 #: includes/admin/settings/emails/class-ur-settings-admin-email.php:52
 #: includes/admin/settings/emails/class-ur-settings-admin-email.php:74
@@ -2832,7 +2828,7 @@ msgstr "Email megerősítés"
 
 #: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:45
 msgid "Email sent to the user with a verification link when email confirmation to register option is choosen"
-msgstr "Email küldve a felhasználónak egy megerősítő linkkel, amikor az email megerősítés regisztrálásra opciót választották"
+msgstr ""
 
 #: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:66
 msgid "Confirmation Email"
@@ -3404,8 +3400,8 @@ msgid "Add a block"
 msgstr "Blokk hozzáadása"
 
 #: includes/blocks/class-ur-blocks.php:77
-msgid "Click the plus button, search for User Registration, click the block to embed it."
-msgstr "Kattintson a plusz gombra, keresse meg a Felhasználói Regisztrációt, majd kattintson a blokkra a beágyazáshoz."
+msgid "Click the plus button, search for User Registration, click the block to embed it. "
+msgstr ""
 
 #: includes/blocks/class-ur-blocks.php:78
 msgid "Done"
@@ -3484,7 +3480,7 @@ msgstr "Az e-mail címed még nem lett frissítve. Kérlek, ellenőrizd az e-mai
 #: includes/class-ur-ajax.php:502
 #: includes/functions-ur-template.php:691
 msgid "There is a pending change of your email to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
-msgstr "A te email címed változtatása folyamatban van erre: <code>%1$s</code>. <a href=\"%2$s\">Törlés</a>"
+msgstr ""
 
 #: includes/class-ur-ajax.php:591
 #: includes/class-ur-ajax.php:599
@@ -3576,7 +3572,7 @@ msgstr "Kötelező kiegészítők"
 #. translators: %s - Integration tab url
 #: includes/class-ur-ajax.php:1360
 msgid "Seems like you haven't added the reCAPTCHA Keys. <a href=\"%s\" >Add Now.</a>"
-msgstr "Úgy tűnik, hogy nem adtad hozzá a reCAPTCHA kulcsokat. <a href=\"%s\" >Add hozzá most.</a>"
+msgstr ""
 
 #: includes/class-ur-ajax.php:1384
 msgid "No plugin specified."
@@ -3619,7 +3615,7 @@ msgstr "A kiválasztott oldal nem a User Registration bejelentkezési vagy fiók
 
 #: includes/class-ur-cache-helper.php:86
 msgid "In order for <strong>database caching</strong> to work with User Registration you must add %1$s to the \"Ignored Query Strings\" option in <a href=\"%2$s\">W3 Total Cache settings</a>."
-msgstr "Ahhoz, hogy a <strong>adatbázis gyorsítótár</strong> működjön a User Registration bővítménnyel, hozzá kell adnod %1$s-t az \"Ignorált lekérdezési karakterláncok\" opcióhoz a <a href=\"%2$s\">W3 Total Cache beállítások</a> oldalon."
+msgstr ""
 
 #: includes/class-ur-cron.php:48
 msgid "Every 15 days"
@@ -3659,7 +3655,7 @@ msgstr "Token nem egyezik!"
 
 #: includes/class-ur-email-confirmation.php:147
 msgid "Token Expired . Please request for new verification email."
-msgstr "A token lejárt. Kérlek kérj új megerősítő emailt."
+msgstr ""
 
 #: includes/class-ur-email-confirmation.php:154
 msgid "Verification Email Sent!"
@@ -3905,7 +3901,7 @@ msgstr "A jelszó és a megerősítő jelszó nem egyeznek."
 
 #: includes/class-ur-frontend-scripts.php:498
 msgid "Hint: To make password stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."
-msgstr "Tipp: A jelszó erősebbé tételéhez használj nagy- és kisbetűket, számokat, valamint olyan szimbólumokat, mint: ! \" ? $ % ^ & )."
+msgstr ""
 
 #: includes/class-ur-frontend-scripts.php:499
 msgid "Hint: Minimum one uppercase letter and must be 4 characters and no repetitive words or common words"
@@ -3958,22 +3954,22 @@ msgstr "Licenc kulcs deaktiválása"
 
 #: includes/class-ur-plugin-updater.php:358
 msgid "The provided license key expired on %1$s. Please <a href=\"%2$s\" rel=\"noreferrer noopener\" target=\"_blank\">renew your license key</a>."
-msgstr "A megadott licenc kulcs %1$s dátumon lejárt. Kérlek <a href=\"%2$s\" rel=\"noreferrer noopener\" target=\"_blank\">újítsd meg a licenc kulcsot</a>."
+msgstr ""
 
 #. translators: %s: Contact Support URL
 #: includes/class-ur-plugin-updater.php:363
 msgid "The provided license key has been disabled. Please <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">contact support</a> for more information."
-msgstr "A megadott licenc kulcs le lett tiltva. Kérlek <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">lépj kapcsolatba a támogatással</a> a további információkért."
+msgstr ""
 
 #. translators: %s: Account Page URL
 #: includes/class-ur-plugin-updater.php:368
 msgid "The provided license is invalid. Please <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">visit your account page</a> and verify it."
-msgstr "A megadott licenc érvénytelen. Kérlek <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">látogasd meg a fiók oldaladat</a> és ellenőrizd."
+msgstr ""
 
 #. translators: %s: Account Page URL
 #: includes/class-ur-plugin-updater.php:374
 msgid "The provided license is not active for this URL. Please <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">visit your account page</a> to manage your license key URLs."
-msgstr "A megadott licenc nem aktív ezen az URL-en. Kérlek <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">látogasd meg a fiók oldaladat</a> a licenc kulcs URL-jeinek kezeléséhez."
+msgstr ""
 
 #. translators: %s: Plugin Name
 #: includes/class-ur-plugin-updater.php:380
@@ -3983,7 +3979,7 @@ msgstr "Úgy tűnik, hogy ez érvénytelen licenckulcs a következőhöz: <stron
 #. translators: %s: Pricing Page URL
 #: includes/class-ur-plugin-updater.php:385
 msgid "The provided license key has reached its activation limit. Please <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">View possible upgrades</a> now."
-msgstr "A megadott licenc kulcs elérte az aktiválási limitjét. Kérlek <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">nézd meg az elérhető frissítéseket</a> most."
+msgstr ""
 
 #: includes/class-ur-plugin-updater.php:389
 msgid "The key you entered belongs to a bundle, please use the product specific license key."
@@ -3992,7 +3988,7 @@ msgstr "A megadott kulcs egy csomaghoz tartozik, kérem, használja a termékhez
 #. translators: %s: Contact Support URL
 #: includes/class-ur-plugin-updater.php:394
 msgid "The provided license key could not be found. Please <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">contact support</a> for more information."
-msgstr "A megadott licenc kulcs nem található. Kérlek <a href=\"%s\" rel=\"noreferrer noopener\" target=\"_blank\">lépj kapcsolatba a támogatással</a> további információkért."
+msgstr ""
 
 #. translators: %s: Error Message
 #: includes/class-ur-plugin-updater.php:399
@@ -4247,7 +4243,7 @@ msgstr "Fizetéseket PayPal-on keresztül fogadunk el. A fizetések feldolgozás
 
 #: includes/class-ur-privacy.php:86
 msgid "Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Privacy Policy</a> for more details."
-msgstr "További részletekért kérlek nézd meg a <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Adatvédelmi irányelveit</a>."
+msgstr ""
 
 #: includes/class-ur-privacy.php:87
 msgid "Available Modules"
@@ -4263,7 +4259,7 @@ msgstr "Szép e-maileket küldünk a MailChimp segítségével. E-mailek feldolg
 
 #: includes/class-ur-privacy.php:92
 msgid "Please see the <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp Privacy Policy</a> for more details."
-msgstr "További részletekért kérlek nézd meg a <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp Adatvédelmi irányelveit</a>."
+msgstr ""
 
 #: includes/class-ur-query.php:75
 #: includes/functions-ur-account.php:121
@@ -4565,7 +4561,7 @@ msgstr "A fiókod még kifizetésre vár."
 #. translators: %s - Redirect URL.
 #: includes/class-ur-user-approval.php:322
 msgid "Your account is still pending payment. Process the payment by clicking on this: <a id=\"payment-link\" href=\"%s\">link</a>"
-msgstr "A fiókod még függőben lévő kifizetéssel rendelkezik. A kifizetést a következő <a id=\"payment-link\" href=\"%s\">linkre kattintva</a> végezheted el."
+msgstr ""
 
 #: includes/class-ur-user-approval.php:350
 msgid "Your subscription is not active. Please contact administrator."
@@ -6442,7 +6438,7 @@ msgstr "Automatikus jóváhagyás és manuális bejelentkezés"
 
 #: includes/functions-ur-core.php:1488
 msgid "Auto approval and auto login "
-msgstr "Automatikus jóváhagyás és automatikus bejelentkezés"
+msgstr ""
 
 #: includes/functions-ur-core.php:1489
 msgid "Admin approval"
@@ -6627,7 +6623,7 @@ msgstr "Állítson be spamvédekezési mechanizmusokat."
 #. translators: %s: Status Log URL
 #: includes/functions-ur-core.php:6254
 msgid "Please check the `ur_mail_errors` log under <a target=\"_blank\" href= \"%s\"> Status Log </a> section."
-msgstr "Kérlek ellenőrizd az `ur_mail_errors` naplót a következő helyen: <a target=\"_blank\" href= \"%s\"> Státusz napló </a>."
+msgstr ""
 
 #: includes/functions-ur-core.php:6297
 msgid "User Registration Email Send Error"
@@ -6635,7 +6631,7 @@ msgstr "Felhasználói regisztrációs e-mail küldési hiba"
 
 #: includes/functions-ur-core.php:6301
 msgid "The last emails sent from User Registration Plugin was not delivered to the user. "
-msgstr "Az utolsó emailek, amelyeket a User Registration bővítmény küldött, nem kerültek kézbesítésre a felhasználónak."
+msgstr ""
 
 #: includes/functions-ur-core.php:6406
 msgid "Unusual User Registrations Detected"
@@ -6846,7 +6842,7 @@ msgstr "A jelszavad sikeresen vissza lett állítva."
 #. translators: %s - Link to logout
 #: includes/shortcodes/class-ur-shortcode-my-account.php:154
 msgid "Are you sure you want to log out?&nbsp;<a href=\"%s\">Confirm and log out</a>"
-msgstr "Biztosan ki szeretnél jelentkezni?&nbsp;<a href=\"%s\">Erősítsd meg és jelentkezz ki</a>"
+msgstr ""
 
 #: includes/shortcodes/class-ur-shortcode-my-account.php:260
 msgid "No profile details found."
@@ -6866,7 +6862,7 @@ msgstr "A jelszó visszaállítása nem engedélyezett ennél a felhasználóná
 
 #: includes/shortcodes/class-ur-shortcode-my-account.php:454
 msgid "The email could not be sent. Contact your site administrator. "
-msgstr "Az email nem lett elküldve. Kérlek vedd fel a kapcsolatot az oldal adminisztrátorával."
+msgstr ""
 
 #: includes/validation/class-ur-form-validation.php:135
 msgid "Duplicate field key in form, please contact site administrator."
@@ -7263,7 +7259,7 @@ msgstr "Oldja fel a korlátlan webhely lehetőségeket a Zakrával, egy sokoldal
 
 #: src/dashboard/Constants/Products.js:104
 msgid "Elevate your website's style with Colormag, the go-to choice for news, blogs, and magazines. Embark on a digital spectacle of website-building excellence! "
-msgstr "Emeld új szintre a weboldalad stílusát a Colormaggal, ami a legjobb választás hírekhez, blogokhoz és magazinokhoz. Kezdj egy digitális látványosságot a weboldal építésének kiválóságában!"
+msgstr ""
 
 #: src/dashboard/screens/Dashboard/components/UsefulPlugins.js:76
 #: src/dashboard/screens/Products/components/ProductCard.js:140
